@@ -1,5 +1,5 @@
 **Deployed to:**
-1. ...
+1. https://festive-kare-19b5af.netlify.com/
 
 # Learn Redux
 
